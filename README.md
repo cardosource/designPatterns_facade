@@ -5,6 +5,10 @@ O Padrão Facade é do tipo estrutural . É usado quando um sistema é muito com
 
 ![Fachada](https://upload.wikimedia.org/wikipedia/commons/4/41/Estrutura2.jpg)
 
+
+uso:
+
+![Fachada](https://refactoring.guru/images/patterns/diagrams/facade/live-example-pt-br.png?id=8a15add170dece5ecfbb)
     
 ## Finalidade
 
