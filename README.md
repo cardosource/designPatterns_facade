@@ -24,10 +24,10 @@ Tem como propósito promover uma interface unificada para um conjunto de interfa
 
 
 
-![](https://img.shields.io/badge/.-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
-
 fontes:     
 [wikipedia ](https://pt.wikipedia.org/wiki/Fa%C3%A7ade)      
 [refactoring](https://refactoring.guru/pt-br/design-patterns/facade)      
 [refactoring](https://www.ateomomento.com.br/facade-padrao-de-projeto/)
   
+
+![](https://img.shields.io/badge/.-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
