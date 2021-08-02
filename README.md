@@ -30,4 +30,4 @@ fontes:
 [refactoring](https://www.ateomomento.com.br/facade-padrao-de-projeto/)
   
 
-![](https://img.shields.io/badge/.-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
+![](https://img.shields.io/badge/python-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
